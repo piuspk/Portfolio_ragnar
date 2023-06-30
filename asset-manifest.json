@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Portfolio_ragnar/static/css/main.f6e4d5ab.css",
-    "main.js": "/Portfolio_ragnar/static/js/main.7d4c2cc6.js",
+    "main.css": "/Portfolio_ragnar/static/css/main.ae1b3b9d.css",
+    "main.js": "/Portfolio_ragnar/static/js/main.d38465d3.js",
     "static/js/787.071eb048.chunk.js": "/Portfolio_ragnar/static/js/787.071eb048.chunk.js",
-    "static/media/bg.jpg": "/Portfolio_ragnar/static/media/bg.f305dfd7e861c7d8005b.jpg",
+    "static/media/bg.jpg": "/Portfolio_ragnar/static/media/bg.24aa63bcfc7f7754180e.jpg",
     "static/media/logo.png": "/Portfolio_ragnar/static/media/logo.940246268991b428d9b2.png",
     "static/media/bg.jpeg": "/Portfolio_ragnar/static/media/bg.1b6f0cebf701c903df3f.jpeg",
     "index.html": "/Portfolio_ragnar/index.html",
-    "main.f6e4d5ab.css.map": "/Portfolio_ragnar/static/css/main.f6e4d5ab.css.map",
-    "main.7d4c2cc6.js.map": "/Portfolio_ragnar/static/js/main.7d4c2cc6.js.map",
+    "main.ae1b3b9d.css.map": "/Portfolio_ragnar/static/css/main.ae1b3b9d.css.map",
+    "main.d38465d3.js.map": "/Portfolio_ragnar/static/js/main.d38465d3.js.map",
     "787.071eb048.chunk.js.map": "/Portfolio_ragnar/static/js/787.071eb048.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6e4d5ab.css",
-    "static/js/main.7d4c2cc6.js"
+    "static/css/main.ae1b3b9d.css",
+    "static/js/main.d38465d3.js"
   ]
 }
